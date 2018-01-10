@@ -23,7 +23,6 @@ click on files ending with '.ipynb'
 ## Courses
 We’ve curated popular tutorials for beginners as well as for advanced data scientists who want to use Python libraries to tackle a wide variety of data science challenges.
 
-[https://github.com/jakevdp/PythonDataScienceHandbook](Python Data Science Handbook (beginner level))
-[https://github.com/donnemartin/data-science-ipython-notebooks](Data Science iPython Notebooks (advanced level))
+[Python Data Science Handbook (beginner level)](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-
+[Data Science iPython Notebooks (advanced level)](https://github.com/donnemartin/data-science-ipython-notebooks)
